@@ -1,15 +1,15 @@
-##### NODEJS-SOLUTION-01
+# NODEJS-SOLUTION-01
 
 Quick Start
 
 * Make sure to make changes in any config files with your credentials for the app to run properly.
 
 
-### Installing
+## Installing
 $ npm install
 
-### Running app
+## Running app
 $ node index.js
 
-### Running test cases
+## Running test cases
 $ npm test
