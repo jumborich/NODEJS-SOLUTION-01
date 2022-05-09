@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-solution-01",
+  "version": "1.0.0",
+  "description": "Solution to assignment question #1",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jumborich/NODEJS-SOLUTION-01.git"
+  },
+  "keywords": [
+    "#TCSXRICHMOND"
+  ],
+  "author": "Richmond Jumbo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jumborich/NODEJS-SOLUTION-01/issues"
+  },
+  "homepage": "https://github.com/jumborich/NODEJS-SOLUTION-01#readme",
+  "devDependencies": {
+    "jest": "^28.0.3",
+    "nodemon": "^2.0.16"
+  }
+}
